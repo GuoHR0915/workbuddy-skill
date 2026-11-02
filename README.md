@@ -1,5 +1,3 @@
-# workbuddy-skill
-Bulk RNA-seq skill
 # Bulk RNA-seq 基础分析 · 推荐用法
 # workbuddy自己写的
 > 配套技能：`bulk-rna-seq`（Bulk RNA-seq 基础分析）
